@@ -1,0 +1,10 @@
+.h3{
+    text-align: center;
+  background-color: aqua;
+  border: 2px solid tomato;
+}
+.p{
+    text-shadow: 2px;
+    background-color: beige;
+    border: 2ps solid yellowgreen;
+}
